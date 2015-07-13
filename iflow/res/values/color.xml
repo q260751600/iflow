@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="halftransparent">#b0000000</color><!--半透明 -->
+    <color name="send_btn_bg_focus">#268507</color>
+     <color name="send_btn_bg_nomal">#3bc50f</color>
+</resources>

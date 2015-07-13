@@ -1,0 +1,33 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- 自定义Dialog样式1 -->
+    <style name="DialogTheme" parent="@android:style/Theme.Dialog">
+
+        <!-- 是否要外框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 是否要标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 背景色 -->
+        <item name="android:windowBackground">@color/halftransparent</item>
+        <!-- 是否浮动在画面上 -->
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+</resources>
