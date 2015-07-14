@@ -30,25 +30,18 @@ public final class R {
     }
     public static final class drawable {
         public static final int app_background_img=0x7f020000;
-        public static final int btn_normal=0x7f020001;
-        public static final int btn_pressed=0x7f020002;
-        public static final int chat_bg_default=0x7f020003;
-        public static final int chatfrom_bg_normal=0x7f020004;
-        public static final int chatto_bg_focused=0x7f020005;
-        public static final int chatto_bg_normal=0x7f020006;
-        public static final int confirm_dialog_bg=0x7f020007;
-        public static final int confirm_dialog_bg2=0x7f020008;
-        public static final int from_head=0x7f020009;
-        public static final int login_edit_normal=0x7f02000a;
-        public static final int mm_title_btn_normal=0x7f02000b;
-        public static final int mm_title_btn_pressed=0x7f02000c;
-        public static final int more_drop=0x7f02000d;
-        public static final int send_btn_bg=0x7f02000e;
-        public static final int title_bar=0x7f02000f;
-        public static final int title_btn_function=0x7f020010;
-        public static final int title_btn_right=0x7f020011;
-        public static final int to_head=0x7f020012;
-        public static final int transparent=0x7f020013;
+        public static final int chatfrom_bg_normal=0x7f020001;
+        public static final int chatto_bg_normal=0x7f020002;
+        public static final int from_head=0x7f020003;
+        public static final int login_edit_normal=0x7f020004;
+        public static final int mm_title_btn_normal=0x7f020005;
+        public static final int mm_title_btn_pressed=0x7f020006;
+        public static final int more_drop=0x7f020007;
+        public static final int send_btn_bg=0x7f020008;
+        public static final int title_bar=0x7f020009;
+        public static final int title_btn_right=0x7f02000a;
+        public static final int to_head=0x7f02000b;
+        public static final int transparent=0x7f02000c;
     }
     public static final class id {
         public static final int action_settings=0x7f090011;
